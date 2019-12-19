@@ -14,6 +14,7 @@ After training for a few hours, our best model obtains an accuracy of 90.9 % on 
 ## Dependencies
 The code base requires the following dependencies (also in requirements.txt): 
 
+* Python 3.7
 * numpy 1.17.4
 * pytorch 1.3.1
 * opencv-python 4.1.2.30
