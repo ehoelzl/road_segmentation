@@ -19,8 +19,6 @@ NUM_EPOCHS = 27
 DICE, BALANCE, LEAKY = True, False, False
 ROTATE = True
 
-MODEL_PATH = ""
-
 
 def run():
     if TRAIN:
