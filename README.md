@@ -94,3 +94,4 @@ Options:
 
 In order to simply re-produce our last submission, just run `python run.py` from within `road_segmentation/torch_unet/`.
 Image predictions will be saved in `road_segmentation/predictions` and the submission file in `road_segmentation/submissions`.
+All images to predict must be under `road_segmentation/Datasets/test_set_images`, or you can change the path variable `TEST_SET` in `torch_unet.globals`
